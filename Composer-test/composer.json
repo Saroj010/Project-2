@@ -1,0 +1,13 @@
+{
+    "name": "dell/composer-test",
+    "authors": [
+        {
+            "name": "dell",
+            "email": "quellerymagar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {"dell\\": "src/"}
+    }
+}

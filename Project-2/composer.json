@@ -1,0 +1,8 @@
+{
+    "name": "dell/project-2",
+    "require": {},
+    "autoload":{
+    	"psr-4" : {"dell\\" : "src/"}
+    }
+
+}

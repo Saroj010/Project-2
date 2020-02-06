@@ -1,0 +1,32 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url(img1.png);
+	background-size: cover;
+	background-position: center;
+}
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+
+}
+.login-left{
+	background: transparent;
+	padding: 30px;
+	
+}
+.login-right{
+	background: transparent;
+	padding: 30px;
+}
+.form-control{
+background-color: transparent!important;
+}
+
+h5{
+	color: white;
+	font-style: bold;
+}
+h1{
+	color: orange;
+	font-style: bold;
+}

@@ -1,0 +1,16 @@
+{
+    "name": "saroj/autoload",
+    "description": "This is sample project",
+    "authors": [
+        {
+            "name": "saroj",
+            "email": "quellerymagar@gmail.com"
+        }
+    ],
+    "require": {
+        "rivsen/hello-world": "^0.1.0"
+    },
+    "autoload": {
+    	"psr-4": {"Saroj\\": "src/"}
+    }
+}
